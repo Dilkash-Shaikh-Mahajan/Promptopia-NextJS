@@ -4,7 +4,7 @@ import { Provider, Nav } from '@components';
 const inter = Inter({ subsets: ['latin'] });
 
 export const metadata = {
-	title: 'Promptopia | Dilkash Shaikh Mahajan',
+	title: 'Dilkash Shaikh Mahajan | Promptopia',
 	description: 'Discover & Share AI Prompts',
 };
 
@@ -26,3 +26,4 @@ const RootLayout = ({ children }) => (
 );
 
 export default RootLayout;
+
